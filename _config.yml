@@ -20,8 +20,8 @@
 
 title: Apps4.Pro Knowledge Base
 description: Knowledge Base of all Apps4.Pro Products
-baseurl: "" # the subpath of your site, e.g. /support
-url: https://teaguns.github.io # the base hostname AND PROTOCOL for your site, e.g. http://example.com
+baseurl: "/app4prosupport" # the subpath of your site, e.g. /support
+url: https://ajitasteffializ.github.io # the base hostname AND PROTOCOL for your site, e.g. http://example.com
 favIcon: "/assets/favicon.ico"
 permalink: /:categories/:title
 
@@ -36,20 +36,18 @@ company_image: jiji.png
 meta_image: jiji.png
 
 # Social Links
-twitter_username: TheTeaGuns
-facebook_page:
-github_username: TeaGuns
-email: m@credd.in
+twitter_username: jijitech
+facebook_page: jijitech
+
+email:support@jijitechnologies.com
 linkedin_page:
 instagram_username: 
 
 
 # Navivation
-nav_item_one: Github
-nav_item_one_link: https://github.com/TeaGuns/odin
 
 nav_item_two: Twitter
-nav_item_two_link: https://twitter.com/TheTeaGuns
+nav_item_two_link: https://twitter.com/jijitech
 
 nav_item_three: #
 nav_item_three_link: #
@@ -58,15 +56,15 @@ nav_button: See Apps4.Pro Products
 nav_button_link: https://apps4.pro/
 
 # More Help
-help_one_title: Odin Bugs
-help_one_content: If you find any bugs or problems with this theme, please open an issue over on Github.
-help_one_button: Github
-help_one_link: https://github.com/TeaGuns/odin/issues
+help_one_title: Need help other than given?
+help_one_content: You can contact us
+help_one_button: Contact
+help_one_link: https://jijitechnologies.com/contact-us.aspx
 
 help_two_title: Twitter
-help_two_content: Feel free to tweet at me if you have suggestions for Odin. Or if you just want to say hi.
+help_two_content: Feel free to tweet at us if you have suggestions or queries.
 help_two_button: Twitter
-help_two_link: https://twitter.com/theteaguns
+help_two_link: https://twitter.com/jijitech
 
 # Build settings
 theme: minima
