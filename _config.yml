@@ -20,7 +20,7 @@
 
 title: Apps4.Pro Knowledge Base
 description: Knowledge Base of all Apps4.Pro Products
-baseurl: "/app4prosupport" # the subpath of your site, e.g. /support
+baseurl: /apps4prosupport # the subpath of your site, e.g. /support
 url: https://ajitasteffializ.github.io # the base hostname AND PROTOCOL for your site, e.g. http://example.com
 favIcon: "/assets/favicon.ico"
 permalink: /:categories/:title
