@@ -1,0 +1,20 @@
+#This file defines all the categories you 
+
+
+apps4pro-planner-manager:
+  name: Apps4.Pro Planner Manager
+  description: FAQ's for the product Apps4.Pro Planner Manager
+pricing-and-licensing:
+  name: Pricing and Licensing
+  description: FAQ's in Pricing and Licensing
+apps4pro-planner-outlook-desktop-add-in:
+  name: Apps4.Pro Planner Outlook Desktop add-in
+  description: FAQ's for the product Apps4.Pro Planner Outlook Desktop add-in
+customizing-odin:
+  name: Customizing Odin
+  description: Welcome to Odin, time to get started
+security-and-privacy:
+  name: Security and Privacy
+  description: Apps4Pro Product Reliability
+
+  
