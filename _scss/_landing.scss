@@ -12,7 +12,15 @@
   background: linear-gradient(0deg, rgba(6,14,20,0) 0%, rgba(6,14,20,1) 100%); 
 }
 .searchinput{
- width:500px;
+ width:750px;
+ margin: 0;
+ padding: 15px;
+ font-size: 1.1em;
+ border-bottom-left-radius: 10px;
+ border-bottom-right-radius: 10px;
+ border-top-left-radius: 10px;
+ border-top-right-radius: 10px;
+ outline: none;
 }
 
 @media only screen and (max-width:600px){
@@ -88,14 +96,22 @@
   padding: 1% 0;
   background-color: white;
   border: 1px solid antiquewhite;
-  margin: 0 2%;
+  margin: 0 20%;
 }
+
+@media only screen and (max-width:600px){
+  .autocomplete-items{
+    margin: 0 5%;
+   }
+}
+
 
 .autocomplete-items div {
   padding: 10px;
   cursor: pointer;
   background-color:white;
   border-bottom: 1px solid #d4d4d4; 
+  
 }
 
 /*when hovering an item:*/
