@@ -47,6 +47,13 @@ email: support@jijitechnologies.com
 linkedin_page:
 instagram_username: 
 
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+      image: "/assets/images/apps4pro-logo-new.png"
 
 # Navivation
 
