@@ -1,9 +1,11 @@
 ---
 layout: post
-title: What information does Planner Manager app update in Microsoft Planner?
+title: "What information does Planner Manager app update in Microsoft Planner?"
+date: 2019-11-05 08:44:38 -0400
 category: security-and-privacy
-contentUrl: /security-and-privacy-app-update-in-microsoft-planner
-tags: [security]
+author: ajita
+short-description: Updation by the app
+tags: [Security and Privacy]
 ---
 Using this app, you can update following Microsoft Planner data: 
 

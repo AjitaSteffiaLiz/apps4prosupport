@@ -1,11 +1,11 @@
 ---
 layout: post
-title: How to configure inclusion list security for the add-in?
-category: apps4pro-planner-outlook-desktop-add-in
+title: "How to configure inclusion list security for the add-in?"
 date: 2019-11-05 08:44:38 -0400
+category: apps4pro-planner-outlook-desktop-add-in
 author: ajita
-short-description: Organize your articles with categories
-tags: [Desktop addin]
+short-description: Configuring Inclusion List
+tags: [Apps4.Pro Planner Outlook Desktop add-in]
 ---
 1. Go to the below Registry location : \HKEY_LOCAL_MACHINE\SOFTWARE\MICROSOFT\.NETFramework\Security 
 
