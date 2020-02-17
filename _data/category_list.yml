@@ -1,8 +1,11 @@
 #This file defines all the categories you 
 
 
-apps4pro-planner-manager:
-  name: Apps4.Pro Planner Manager
+apps4pro-planner-manager-desktop-app:
+  name: Apps4.Pro Planner Manager (Desktop App)
+  description: FAQ's for the product Apps4.Pro Planner Manager
+apps4pro-planner-manager-chrome-extension:
+  name: Apps4.Pro Planner Manager (Chrome Extension)
   description: FAQ's for the product Apps4.Pro Planner Manager
 pricing-and-licensing:
   name: Pricing and Licensing
@@ -13,5 +16,8 @@ apps4pro-planner-outlook-desktop-add-in:
 security-and-privacy:
   name: Security and Privacy
   description: Apps4Pro Product Reliability
+documents:
+  name: Documents
+  description: Important Documents Links
 
   
