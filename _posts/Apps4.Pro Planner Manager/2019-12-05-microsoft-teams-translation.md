@@ -9,7 +9,7 @@ date: 2019-11-05 08:44:38 -0400
 author: mac
 short-description: Update planner tasks using Excel
 ---
-![banner](/assets/images/microsoft-teams-translation/microsoft-teams-translation.png)
+![banner](../assets/images/microsoft-teams-translation/microsoft-teams-translation.png)
 
 Microsoft announced translation feature in Microsoft Teams. This will break the language barrier between the team members.
 
@@ -31,7 +31,7 @@ Check the Global Teams Messaging Policy, whether translation is enabled or not
 ````
  Get-CsTeamsMessagingPolicy -Identity Global
 ````
-![get policy](/assets/images/microsoft-teams-translation/get-policy.png)
+![get policy](../assets/images/microsoft-teams-translation/get-policy.png)
 
 If not set, enable it as follows
 ````           
@@ -40,9 +40,9 @@ If not set, enable it as follows
 
 Wait for few minutes and reopen your Teams client to find the translation feature.
 
-![teams-translation](/assets/images/microsoft-teams-translation/teams-translation.png)
+![teams-translation](../assets/images/microsoft-teams-translation/teams-translation.png)
 
-![teams-translation-original](/assets/images/microsoft-teams-translation/teams-translation-original.png)
+![teams-translation-original](../assets/images/microsoft-teams-translation/teams-translation-original.png)
 
 
 
