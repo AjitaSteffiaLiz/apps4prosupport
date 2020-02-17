@@ -3,7 +3,7 @@ layout: post
 title: "What should I do incase the values for the custom fields appear as N/A?"
 date: 2019-11-05 08:44:38 -0400
 category: apps4pro-planner-manager-desktop-app
-author: ajita
+author: gandhi
 short-description: N/A in custom fields
 tags: [Planner Manager Desktop app]
 ---
